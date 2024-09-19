@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GZUUf-TcJM9M3wCEMww6-35" value="УИП" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GZUUf-TcJM9M3wCEMww6-35" value="УИП" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="160" y="490" width="130" height="380" as="geometry" />
         </mxCell>
         <mxCell id="GZUUf-TcJM9M3wCEMww6-46" value="1. Вариант интеграции, через существующую интеграцию с КрСМБ" style="swimlane;startSize=0;align=left;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="GZUUf-TcJM9M3wCEMww6-57" value="ART.L.VKKP.1458.-----.RQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GZUUf-TcJM9M3wCEMww6-47">
           <mxGeometry x="295" y="211" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="GZUUf-TcJM9M3wCEMww6-43" value="ИС 1458" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GZUUf-TcJM9M3wCEMww6-43" value="ИС 1458" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="480" y="500" width="180" height="370" as="geometry" />
         </mxCell>
         <mxCell id="GZUUf-TcJM9M3wCEMww6-7" value="deals" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
@@ -61,10 +61,10 @@
         <mxCell id="GZUUf-TcJM9M3wCEMww6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GZUUf-TcJM9M3wCEMww6-25" target="GZUUf-TcJM9M3wCEMww6-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GZUUf-TcJM9M3wCEMww6-42" value="ИС 1458" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GZUUf-TcJM9M3wCEMww6-42" value="ИС 1458" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="480" y="70" width="180" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="GZUUf-TcJM9M3wCEMww6-32" value="УИП" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GZUUf-TcJM9M3wCEMww6-32" value="УИП" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="130" height="330" as="geometry" />
         </mxCell>
         <mxCell id="GZUUf-TcJM9M3wCEMww6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1">
@@ -109,7 +109,7 @@
           <mxGeometry x="160" y="110" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GZUUf-TcJM9M3wCEMww6-37" value="ART.L.VKKP.1458.PAYMENTS.RQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="370" width="175" height="30" as="geometry" />
+          <mxGeometry x="137.5" y="350" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GZUUf-TcJM9M3wCEMww6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.683;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GZUUf-TcJM9M3wCEMww6-29" target="GZUUf-TcJM9M3wCEMww6-4">
           <mxGeometry relative="1" as="geometry" />
