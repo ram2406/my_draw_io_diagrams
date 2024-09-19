@@ -197,9 +197,6 @@
             <mxPoint x="800" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FCLQX8WhkADZpLjB1fGC-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="80" y="190" width="90" height="30" as="geometry" />
-        </mxCell>
         <UserObject label="4111@vtb.ru" id="FCLQX8WhkADZpLjB1fGC-50">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=middle;fontSize=16;" vertex="1" parent="1">
             <mxGeometry x="-10" y="110" width="100" height="20" as="geometry" />
