@@ -56,13 +56,19 @@
           <mxGeometry x="-160" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-19" value="Расширенный профиль клиента ЮЛ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="-70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-150" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-20" value="Финансовые изменения счета" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-130" width="120" height="60" as="geometry" />
+        <mxCell id="avL2J_CI90qdSD80F_EQ-20" value="&lt;div&gt;Финансовые изменения счета&lt;/div&gt;&lt;div&gt;fccs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-21" value="Карточка ЮЛ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="-60" width="120" height="60" as="geometry" />
+        <mxCell id="avL2J_CI90qdSD80F_EQ-21" value="&lt;div&gt;Карточка ЮЛ&lt;/div&gt;&lt;div&gt;csoc&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-22" value="&lt;div&gt;Карточка ФЛ&lt;/div&gt;&lt;div&gt;cspc&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-23" value="&lt;div&gt;Карточка сотрудника&lt;br&gt;&lt;/div&gt;&lt;div&gt;bscs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
