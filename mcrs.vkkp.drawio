@@ -28,22 +28,22 @@
         <mxCell id="avL2J_CI90qdSD80F_EQ-8" value="loan-petitions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="150" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-9" value="DC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="avL2J_CI90qdSD80F_EQ-9" value="&lt;div&gt;DC&lt;/div&gt;&lt;div&gt;gdcr&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="780" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-10" value="Досье" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="avL2J_CI90qdSD80F_EQ-10" value="&lt;div&gt;Досье&lt;/div&gt;&lt;div&gt;dose&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="690" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-11" value="ЦФТ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="avL2J_CI90qdSD80F_EQ-11" value="&lt;div&gt;ЦФТ&lt;/div&gt;&lt;div&gt;cftm&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="830" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-12" value="СС Крипто" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="avL2J_CI90qdSD80F_EQ-12" value="&lt;div&gt;СС Крипто&lt;/div&gt;&lt;div&gt;tses&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="960" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-14" value="КрСМБ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="avL2J_CI90qdSD80F_EQ-14" value="&lt;div&gt;КрСМБ&lt;/div&gt;&lt;div&gt;loan&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="880" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-15" value="ОПС Точки продаж" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="avL2J_CI90qdSD80F_EQ-15" value="&lt;div&gt;ОПС Точки продаж&lt;/div&gt;&lt;div&gt;batp&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="920" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-16" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-20" value="Финансовые изменения счета" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="60" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-21" value="Карточка ЮЛ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
