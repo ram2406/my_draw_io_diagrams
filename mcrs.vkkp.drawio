@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram name="Страница — 1" id="t4jZ7-XVJNXF6yLmWjbx">
-    <mxGraphModel dx="976" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="avL2J_CI90qdSD80F_EQ-1" value="&lt;div&gt;deals&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-2" value="payments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
@@ -29,28 +29,31 @@
           <mxGeometry x="150" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-9" value="DC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="470" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-10" value="Досье" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-11" value="ЦФТ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-12" value="СС Крипто" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-13" value="КрСМБ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-14" value="КрСМБ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="530" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-15" value="ОПС Точки продаж" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-16" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-17" value="Artemis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
