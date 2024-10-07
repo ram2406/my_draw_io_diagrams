@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="avL2J_CI90qdSD80F_EQ-3" value="&lt;div&gt;controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="150" y="800" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="avL2J_CI90qdSD80F_EQ-6" value="reports" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -127,8 +124,26 @@
         <mxCell id="avL2J_CI90qdSD80F_EQ-44" value="&lt;div&gt;OpsNext&lt;/div&gt;&lt;div&gt;upzo&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="avL2J_CI90qdSD80F_EQ-42">
           <mxGeometry x="180" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="avL2J_CI90qdSD80F_EQ-46" value="&lt;div&gt;Реестр справочников&lt;/div&gt;&lt;div&gt;osrf&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="380" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="avL2J_CI90qdSD80F_EQ-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="700" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-3" value="&lt;div&gt;controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="avL2J_CI90qdSD80F_EQ-50">
+          <mxGeometry x="290" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-46" value="&lt;div&gt;Реестр справочников&lt;/div&gt;&lt;div&gt;osrf&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="avL2J_CI90qdSD80F_EQ-50">
+          <mxGeometry y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-47" value="&lt;div&gt;Комплексная проверка&lt;br&gt;&lt;/div&gt;cpsl" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="avL2J_CI90qdSD80F_EQ-50">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-48" value="&lt;div&gt;Курс&lt;/div&gt;&lt;div&gt;curs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="avL2J_CI90qdSD80F_EQ-50">
+          <mxGeometry x="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-49" value="&lt;div&gt;Лимитный сервер&lt;br&gt;&lt;/div&gt;els" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="avL2J_CI90qdSD80F_EQ-50">
+          <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avL2J_CI90qdSD80F_EQ-51" value="&lt;div&gt;Сессионные данные&lt;br&gt;&lt;/div&gt;&lt;div&gt;tsct&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="60" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
