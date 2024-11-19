@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.6">
   <diagram name="Страница — 1" id="iWlI1vJu-bp0asXgpejS">
-    <mxGraphModel dx="1500" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1757" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,6 +252,60 @@
           <mxGeometry x="-0.5287" y="2" relative="1" as="geometry">
             <mxPoint x="18" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-93" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-410" y="850" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-93">
+          <mxGeometry width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-95" value="Контроль&lt;div&gt;блокировок (3)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-93">
+          <mxGeometry x="40" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-96" value="Контроль&lt;div&gt;наличия ФКР (1)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-93">
+          <mxGeometry x="175" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-97" value="Контроль&lt;div&gt;по перечням и спискам (???)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-93">
+          <mxGeometry x="120" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-98" value="vkkp-loaners" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-93">
+          <mxGeometry x="10" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-100" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-510" y="640" width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-100">
+          <mxGeometry width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-102" value="Контроль&lt;div&gt;остатка&amp;nbsp;&lt;/div&gt;&lt;div&gt;кредитных&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;средств (2)&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-100">
+          <mxGeometry x="261.7391304347826" y="15" width="112.17391304347827" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-103" value="Контроль&lt;div&gt;целевого использования (2)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-100">
+          <mxGeometry x="130.8695652173913" y="15" width="112.17391304347827" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-104" value="Контроль&lt;div&gt;утилизация кредита (???)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-100">
+          <mxGeometry x="191.63043478260872" y="105" width="112.17391304347827" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-105" value="vkkp-payments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-100">
+          <mxGeometry x="18.695652173913043" y="80" width="112.17391304347827" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-510" y="404.5" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-106">
+          <mxGeometry width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-108" value="Контроль&lt;div&gt;лимитов (1)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-106">
+          <mxGeometry x="20" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-109" value="Контроль&lt;div&gt;отлагательных условий (6)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-106">
+          <mxGeometry x="160" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-110" value="vkkp-deals" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-106">
+          <mxGeometry x="30" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-111" value="Контроль&lt;div&gt;чеклист (???)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="KAaZJXrvGKprZwJc2ma_-106">
+          <mxGeometry x="180" y="110" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
