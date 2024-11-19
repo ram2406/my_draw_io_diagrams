@@ -210,7 +210,7 @@
             <mxPoint x="-63" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KAaZJXrvGKprZwJc2ma_-77" value="taskControlDoneQueue" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAaZJXrvGKprZwJc2ma_-76" target="KAaZJXrvGKprZwJc2ma_-71">
+        <mxCell id="KAaZJXrvGKprZwJc2ma_-77" value="&lt;div&gt;taskControlCompletedQueue&lt;/div&gt;&lt;div&gt;taskControlFailedQueue&lt;/div&gt;&lt;div&gt;taskControlRejectedQueue&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KAaZJXrvGKprZwJc2ma_-76" target="KAaZJXrvGKprZwJc2ma_-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="416" y="800" />
