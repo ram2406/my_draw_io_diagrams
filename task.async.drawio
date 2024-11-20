@@ -395,6 +395,9 @@
         <mxCell id="il71LvK7flmEL-OVMO_z-28" value="vkkp-tasks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="665" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="il71LvK7flmEL-OVMO_z-30" value="vkkp-loaners" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
